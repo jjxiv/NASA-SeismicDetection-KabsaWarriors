@@ -65,4 +65,4 @@ Important things to remember:
 
 Upon completing the correct directory or file structure, you can now run 'SeismicActivity_KW.ipynb' and run each code inside the notebook. Make sure you read the contents inside before running ensure smooth demo, as well as check out the recommendation + conclusion for further development. <br></br>
 
-To Infinity and Beyond! -Buzz Lightyear
+_To Infinity and Beyond! -Buzz Lightyear_
